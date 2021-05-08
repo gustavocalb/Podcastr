@@ -34,4 +34,4 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 # NLW4-Moveit
 
-## Feito com 💜 por Gustavo Carvalho
+### Feito com 💜 por Gustavo Carvalho
