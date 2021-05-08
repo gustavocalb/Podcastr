@@ -1,4 +1,6 @@
-<img src="./public/logo.svg" />
+<div align="center">
+  <img src="./public/logo.svg" />
+ </div>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
