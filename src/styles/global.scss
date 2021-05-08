@@ -33,17 +33,17 @@
 }
 
 body {
-  background: var(--gray-50);
+  background: #222226;
 }
 body, input, textarea, button {
   font: 500 1rem Inter, sans-serif;
-  color: var(--gray-500);
+  color: #999999;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-family: Lexend, sans-serif;
-  color: var(--gray-800)
+  color: #c0c0c0
 }
 
 h1 {
