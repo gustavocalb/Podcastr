@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<div align="center" width="450px">
   <img src="./public/logo.svg" />
  </div>
 
